@@ -10,7 +10,7 @@ This repo is based on the work of Jason Antic, the creator of DeOldify. I have u
 
 Image  [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/github/Dakini/AnimeColorDeOldify/blob/master/ImageColorizerColab.ipynb) 
 
-GrayScale Images [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/github/Dakini/AnimeColorDeOldify/blob/master/ImageColorizerColabGrayScale.ipynb)
+GrayScale Images [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/github/avshiva-noro/AnimeColorDeOldify/blob/master/ImageColorizerColabGrayScale.ipynb)
 
 Digital Sketches [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/github/Dakini/AnimeColorDeOldify/blob/master/ImageColorizerColabSketch.ipynb)
 
