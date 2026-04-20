@@ -1,6 +1,6 @@
 
 # Anime/Sketch/Manga Coloriser trained with DeOldify
-#Pached (Working)
+# Pached (Working)
 ![](https://i.imgur.com/UnAsqFr.jpg)
 
 This repo is based on the work of Jason Antic, the creator of DeOldify. I have used his code base, to bring you this repository that allows you to colorise anime/manga sketches.
