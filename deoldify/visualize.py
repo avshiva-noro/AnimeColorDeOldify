@@ -62,7 +62,12 @@ class ModelImageVisualizer:
         return PIL.Image.open(path).convert('RGB')
 
     def _get_image_from_url(self, url: str) -> Image:
-        response = requests.get(url, timeout=30)
+        header = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "Referer": "https://imgur.com/"
+        }
+
+        response = requests.get(url, headers=header, timeout=30)
         img = PIL.Image.open(BytesIO(response.content)).convert('RGB')
         return img
 
