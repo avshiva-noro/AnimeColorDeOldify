@@ -12,7 +12,7 @@ Image  [<img src="https://colab.research.google.com/assets/colab-badge.svg" alig
 
 GrayScale Images [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/github/avshiva-noro/AnimeColorDeOldify/blob/master/ImageColorizerColabGrayScale.ipynb)
 
-Digital Sketches [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/avshiva-noro/AnimeColorDeOldify/blob/master/ImageColorizerColabSketch.ipynb)
+Digital Sketches [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/github/avshiva-noro/AnimeColorDeOldify/blob/master/ImageColorizerColabSketch.ipynb)
 
 Sketches to Shading (tempremental) [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/github/avshiva-noro/AnimeColorDeOldify/blob/master/ImageColorizerColabSketch2Gray.ipynb)
 
